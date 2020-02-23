@@ -18,3 +18,9 @@ $ npx babel-node src/myfile.js
 
 or for repel:
 npx babel-node
+
+//Dev dependencies for node
+install ESLint
+npm install --save-dev eslint
+npx eslint --init
+npm install --save-dev eslint-plugin-immutable

@@ -51,3 +51,7 @@ module.exports = {
 },
     plugins: ['immutable',
   ],
+
+
+to run eslint, use
+npx eslint .

@@ -55,3 +55,6 @@ module.exports = {
 
 to run eslint, use
 npx eslint .
+
+or run regular js with babel
+npx @babel/node <filename>
